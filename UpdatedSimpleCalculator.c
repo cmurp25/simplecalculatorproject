@@ -3,7 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdbool.h>
- 
+
 /*
 File contains three in total: UpdatedSimpleCalculator.c, Calculator.c and Calculator.h
 How to compile:
