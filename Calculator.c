@@ -1,7 +1,7 @@
 #include "Calculator.h"
 #include <stdio.h>
 #include <string.h>
- 
+
 void PrintMenu(double number1, int count) {
  
     char space = ' ';

@@ -1,7 +1,7 @@
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 #include <stdio.h>
-  
+
 // Prototypes
 void PrintMenu(double number1, int count);
 void PrintMenuWithOp(double number1, int count, char operator[2]);
