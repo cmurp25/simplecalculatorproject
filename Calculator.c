@@ -1,9 +1,9 @@
 #include "Calculator.h"
 #include <stdio.h>
 #include <string.h>
- 
-void PrintMenu(double number1, int count) {
 
+void PrintMenu(double number1, int count) {
+ 
     char space = ' ';
 
     for (int i = 0; i < 25; ++i) {
